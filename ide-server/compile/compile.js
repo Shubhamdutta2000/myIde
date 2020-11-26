@@ -41,7 +41,7 @@ const cExecute = (data, input) => {
             const filePath = path.join(__dirname,"../test.c")
             console.log("FILE PATH >> "+filePath);
         
-            // COMPILE THE C++ CODES
+            // COMPILE THE C CODES
             exec('gcc '+filePath, (err, stdout, stderr) => {
                 if (err) {
                   // IF COMPILATION ERROR

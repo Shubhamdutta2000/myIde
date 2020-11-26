@@ -10,6 +10,7 @@ This is an interactive IDE for writing code ```Windows only```.
 6. Then run ```npm install``` to install all dependencies that i have used
 7. Then ```npm start``` to start the react server
 
+
 ## NOTE:-<br>
 Remember to set the path of ```C```, ```C++```, ```Java```, ```python``` in your system <br>
 by setting environment variables.
@@ -22,30 +23,36 @@ Code Editor Look
 
 ![](./assests/vscode.png)
 
+
 ## All Available Language
 
 1. ### C
 #### Without Input
 ![](./assests/cwithoutinput.JPG)
+
 #### With Input
 ![](./assests/cwithinput.JPG)
+
 
 2. ### C++
 #### Without Input
 ![](./assests/c++withoutinput.JPG)
+
 #### With Input
 ![](./assests/c++withinput.JPG)
+
 
 3. ### Java
 #### Without Input
 ![](./assests/javawithoutinput.JPG)
+
 #### With Input
 ![](./assests/javawithinput.JPG)
+
 
 4. ### Python
 #### Without Input
 ![](./assests/pythonwithoutinput.JPG)
+
 #### With Input
 ![](./assests/pythonwithinput.JPG)
-
-
